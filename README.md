@@ -35,5 +35,4 @@ Highest Score: 95
 Lowest Score: 50
 
 👩‍💻 Author
-
-Your Name
+Anjali Sharma
